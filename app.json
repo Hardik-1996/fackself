@@ -1,6 +1,6 @@
 {
-    "name": "File Store Bot",
-    "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @VJ_Botz",
+    "name": "MRG Storage",
+    "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @MRGOfficial_admin",
     "keywords": [
         "telegram",
         "files",
@@ -10,7 +10,7 @@
     "repository": "https://github.com/VJBots/File-Store-Bot-With-Url-Shortner",
     "website": "https://telegram.dog/VJ_Botz",
     "success_url": "https://t.me/VJ_Bot_Disscussion",
-    "logo": "https://telegra.ph/file/b39906f572822b3ab82c8.jpg",
+    "logo": "https://telegra.ph/file/f4a81d77ee6c559bd1f08.jpg",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"

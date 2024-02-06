@@ -7,9 +7,9 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/VJBots/File-Store-Bot-With-Url-Shortner",
-    "website": "https://telegram.dog/VJ_Botz",
-    "success_url": "https://t.me/VJ_Bot_Disscussion",
+    "repository": "https://github.com/Hardik-1996/MRGStore",
+    "website": "https://telegram.dog/MRGOfficial_admin",
+    "success_url": "https://t.me/+1qBXuuZ8AxlkYWU9",
     "logo": "https://telegra.ph/file/f4a81d77ee6c559bd1f08.jpg",
     "env": {
         "API_ID": {

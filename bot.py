@@ -1,4 +1,4 @@
-# (c) @TeleRoidGroup || @PredatorHackerzZ
+# (c) @MRGOfficial_admin
 
 import os
 import asyncio

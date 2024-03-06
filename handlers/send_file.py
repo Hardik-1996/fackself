@@ -11,7 +11,7 @@ from handlers.helpers import str_to_b64
 async def reply_forward(message: Message, file_id: int):
     try:
         await message.reply_text(
-            f"Avoid copyright issues. Please Don't forward & Just save to Media them.",
+            f"Avoid copyright issues. Please forward & Just save to Media them. After 30 min Auto Delete Above File",
             disable_web_page_preview=True,
             quote=True
         )

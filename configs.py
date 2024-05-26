@@ -3,7 +3,7 @@ import os
 class Config(object):
   API_ID = int(os.environ.get("API_ID", "2535079"))
   API_HASH = os.environ.get("API_HASH", "e7e40943947d17e07469260d265a26cd")
-  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6369560123:AAF_L0XVheX16WJsxOqVudSf6XkO2ZbH3mQ")
+  BOT_TOKEN = os.environ.get("BOT_TOKEN", "6369560123:AAE38y26FV4_yl1SEHqPvmu0-_L18KNecQE")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "MRG_db_bot")
   DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1001755291047"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "gplinks.in")
